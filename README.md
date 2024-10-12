@@ -5,4 +5,4 @@
 intenté que cada codigo pueda ser usado de la siguiente manera...
 
 
-python script.py -url "https://ejemplo.com/"
+python script.py -u "https://www.ejemplo.com/"
